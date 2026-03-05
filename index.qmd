@@ -1,0 +1,11 @@
+---
+title: Apresentações
+listing:
+  contents: slides
+  recursive: true
+  type: table
+  sort: "date desc"
+  fields: [title, date]
+---
+
+# Apresentações
