@@ -2,7 +2,7 @@
 title: Apresentações
 listing:
   contents: slides
-  type: table
+  type: grid
   sort: "date desc"
   fields: [title, date]
 ---
