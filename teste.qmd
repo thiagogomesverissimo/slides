@@ -1,6 +1,7 @@
 ---
-title: "Drupal na Universidade 🚀"
+title: "Teste"
 author: "Thiago Gomes"
+date: "2026-03-05"
 format:
   revealjs:
     theme: solarized
