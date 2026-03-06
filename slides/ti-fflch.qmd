@@ -1,7 +1,8 @@
 ---
-title: "Drupal na Universidade 🚀"
+title: "TI FFLCH"
+subtitle: "Organização, Responsabilidades e Governança"
 date: 2026-03-05
-author: "Thiago Gomes"
+author: "Thiago Gomes Verissimo"
 format:
   revealjs:
     theme: solarized
@@ -9,42 +10,243 @@ format:
     transition: fade
     background-transition: zoom
     incremental: true
+    center: true
 ---
 
-# Olá 👋
+## A TI da FFLCH
 
-Essa é uma apresentação descontraída usando **Quarto**.
+![](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+- ~2000 computadores  
+- centenas de sites  
+- dezenas de sistemas  
+- rede, servidores, suporte e desenvolvimento  
+
+Tudo isso sustentado por uma **equipe pequena**.
 
 ---
 
-# O Problema
-
-papel dos estagiários nas tasks
-hoŕario entrada sáida almoço
-analista versus técnico - níveis de responsabilidade
-
-
-- Muitos sites
-- Muita manutenção
-- Pouca padronização
+## Quando tudo funciona
 
 ![](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
----
+Se a TI funciona bem:
 
-# A Solução 😎
+- ninguém percebe
+- ninguém comenta
+- ninguém lembra
 
-## Drupal + Padronização
-
-- Tema único
-- Governança
-- Segurança
-
-![](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+Mas **quando algo falha...**
 
 ---
 
-# Código ao vivo
+## Quando algo quebra
 
-```{r}
-plot(cars)
+![](https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif)
+
+Quando algum sistema cai  
+ou a rede para...
+
+📱 **meu WhatsApp bomba**
+
+- "Thiago, a internet caiu aqui"
+- "O Moodle não abre"
+- "Você sabe o que aconteceu?"
+- "Aqui parou tudo!"
+
+> Em poucos minutos aparecem **20 mensagens ao mesmo tempo**
+
+Por isso **organização interna é fundamental.**
+
+---
+
+## Antes de falar da nova metodologia
+
+Precisamos alinhar **alguns princípios básicos**.
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejh0aHBwNXdpYTFneXhqYm5wbGFqemJrdmZ3MDB4NDlhbXZsYmdmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/327hvGuVLRKFRZuqKK/giphy.gif)
+
+---
+
+## Nossas práticas... que valem para todos (nessa gestão)
+
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZibXY4bW9oYW9oa2g2bWYyaDRreG41aThmNno0aXlyOHI5bXlhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyMXivW0CCuiBLNeVk/giphy.gif)
+
+---
+
+## Horário de trabalho
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXY2MzR2NTc1eHNqODVpdzl2cWt2ODRoa2l5enZydzNvZDZxdXgzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1X6VCB7eYobnpk6Pue/giphy.gif)
+
+Qual a regra?
+
+---
+
+## Férias, abonadas e banco de horas
+
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW0wNWlwOGJvOHcyczVkMHh3N204cHdkazdyaW9wY3JwdWR6YXQ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P10xPSslxAogmEDNeQ/giphy.gif)
+
+ausências: terapias, aulas, fisioterapias...
+
+idem...
+
+---
+
+## Mas Por que?
+
+![](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)
+
+Vida privada e vida profissional.
+
+Nossa comunicação e a comunicação entre a equipe.
+
+---
+
+## Quando precisamos
+
+![](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
+
+
+> **Todo mundo ajuda.**
+
+## Registros administrativos
+
+![](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
+
+Sistema institucional de registro:
+
+- **IFPonto**
+- **MarteWeb**
+
+A **Néli** está responsável por registrar e acompanhar ocorrências nesses sistemas.
+
+---
+
+## O ônus da administração: atendimento
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW54djVnMzNqM2oyZTgwdWk3eHdnMGd2eGNwYmQ3c202bzlxeGR1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif)
+
+
+Estagiários: WhatsApp, telefone e porta
+
+---
+
+## Técnico vs Analista
+
+![](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif)
+
+A diferença **não é complexidade técnica**.
+
+A diferença é **responsabilidade**.
+
+---
+
+## O que isso significa
+
+1️⃣ **Todos podem executar qualquer serviço**
+
+2️⃣ **Responsabilidade não pode ser sempre transferida para o chefe**
+
+
+---
+
+## O problema que preciso minimizar
+
+![](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
+- visualizar a carga de trabalho
+- distribuir responsabilidades
+- medir esforço das tarefas
+
+---
+
+## A proposta
+
+Implementar um **sistema de governança de TI**.
+
+![](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+---
+
+## Objetivos da governança
+
+- visão integrada do ambiente tecnológico
+- definição clara de responsabilidades
+- documentação dos processos internos
+- organização das tarefas rotineiras
+- transparência na distribuição de trabalho
+
+---
+
+## Como estimar tarefas?
+
+Usaremos **Story Points**.
+
+![](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+
+Metodologia comum em **gestão ágil de projetos**.
+
+---
+
+## Referência
+
+A abordagem segue os princípios de:
+
+**Mike Cohn**
+
+Livro:
+
+*Agile Estimating and Planning*
+
+---
+
+## Escala de pontuação
+
+Usaremos a sequência de **Fibonacci**: 1, 2, 3, 5, 8, 13...
+
+
+![](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif)
+
+Isso reflete o fato de que **tarefas maiores crescem em complexidade de forma não linear**.
+
+---
+
+## Como atribuímos a pontuação
+
+Cada tarefa será avaliada considerando:
+
+1️⃣ complexidade técnica  
+2️⃣ tempo médio de execução  
+3️⃣ recorrência da tarefa
+
+---
+
+## Como medir a carga de trabalho
+
+A carga de responsabilidade de cada pessoa será:
+
+> **Soma dos Story Points das tarefas atribuídas**
+
+![](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+
+---
+
+## Próximo passo
+
+![](https://media.giphy.com/media/l1J9FiGxR61OcF2mI/giphy.gif)
+
+Quero conversar **individualmente com cada membro da equipe**.
+
+- revisão da **descrição das tarefas atribuídas**
+- avaliação do **peso (story points)** dessas tarefas
+- levantamento de pendências relacionadas às tarefas
+- Necessidade de estagiários na tarefa
+- Inclusão ou remoção de tarefas
+
+---
+
+## Obrigado
+
+![](https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif)
+
+Perguntas?
