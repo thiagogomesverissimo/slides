@@ -5,6 +5,9 @@ project:
 format:
   revealjs:
     theme: simple
+  html:
+    theme: cosmo
 
 website:
   title: "Minhas Apresentações"
+

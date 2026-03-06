@@ -1,1 +1,3 @@
-i
+quarto preview
+
+quarto render

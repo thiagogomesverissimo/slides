@@ -1,5 +1,6 @@
 ---
 title: Apresentações
+format: html
 listing:
   contents: slides
   type: grid
@@ -7,4 +8,4 @@ listing:
   fields: [title, date]
 ---
 
-# Apresentações
+Apresentações de Thiago Gomes Veríssimo
